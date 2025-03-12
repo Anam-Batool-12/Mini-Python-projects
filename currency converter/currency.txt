@@ -1,0 +1,64 @@
+US Dollar	1.00 USD	inv. 1.00 USD
+Euro	0.954503	1.047666
+British Pound	0.791331	1.263694
+Indian Rupee	86.882818	0.011510
+Australian Dollar	1.573601	0.635485
+Canadian Dollar	1.424635	0.701934
+Singapore Dollar	1.338107	0.747324
+Swiss Franc	0.897176	1.114609
+Malaysian Ringgit	4.413160	0.226595
+Japanese Yen	149.671101	0.006681
+Chinese Yuan Renminbi	7.259229	0.137756
+Alphabetical orderFeb 25, 2025 05:54 UTC
+US Dollar▲	1.00 USD▲▼	inv. 1.00 USD▲▼
+Argentine Peso	1060.142325	0.000943
+Australian Dollar	1.573601	0.635485
+Bahraini Dinar	0.376000	2.659574
+Botswana Pula	13.772986	0.072606
+Brazilian Real	5.768793	0.173346
+British Pound	0.791331	1.263694
+Bruneian Dollar	1.338107	0.747324
+Bulgarian Lev	1.866845	0.535663
+Canadian Dollar	1.424635	0.701934
+Chilean Peso	944.153486	0.001059
+Chinese Yuan Renminbi	7.259229	0.137756
+Colombian Peso	4116.445246	0.000243
+Czech Koruna	23.841317	0.041944
+Danish Krone	7.120479	0.140440
+Emirati Dirham	3.672500	0.272294
+Euro	0.954503	1.047666
+Hong Kong Dollar	7.775854	0.128603
+Hungarian Forint	382.944933	0.002611
+Icelandic Krona	138.499945	0.007220
+Indian Rupee	86.882818	0.011510
+Indonesian Rupiah	16328.024707	0.000061
+Iranian Rial	42293.918233	0.000024
+Israeli Shekel	3.573517	0.279836
+Japanese Yen	149.671101	0.006681
+Kazakhstani Tenge	498.905704	0.002004
+Kuwaiti Dinar	0.308546	3.241009
+Libyan Dinar	4.891427	0.204439
+Malaysian Ringgit	4.413160	0.226595
+Mauritian Rupee	46.473710	0.021518
+Mexican Peso	20.431538	0.048944
+Nepalese Rupee	139.077671	0.007190
+New Zealand Dollar	1.742645	0.573840
+Norwegian Krone	11.112632	0.089988
+Omani Rial	0.384995	2.597435
+Pakistani Rupee	279.721551	0.003575
+Philippine Peso	57.881504	0.017277
+Polish Zloty	3.957520	0.252684
+Qatari Riyal	3.640000	0.274725
+Romanian New Leu	4.750876	0.210488
+Russian Ruble	87.722690	0.011400
+Saudi Arabian Riyal	3.750000	0.266667
+Singapore Dollar	1.338107	0.747324
+South African Rand	18.355406	0.054480
+South Korean Won	1431.055807	0.000699
+Sri Lankan Rupee	295.570296	0.003383
+Swedish Krona	10.652645	0.093873
+Swiss Franc	0.897176	1.114609
+Taiwan New Dollar	32.778276	0.030508
+Thai Baht	33.644197	0.029723
+Trinidadian Dollar	6.793210	0.147206
+Turkish Lira	36.446572	0.027437
